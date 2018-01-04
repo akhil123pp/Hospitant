@@ -1,0 +1,92 @@
+body{
+    margin: 0px auto;
+    padding: 0px auto;
+    height: 100% auto;
+    width:auto;
+    min-width: 400px;
+}
+div{
+    display: block;
+}
+a.link{
+    text-decoration: none;
+    text-decoration-color: blue;
+}
+#form-container{
+    padding-top: 2%;
+    display: block;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+form.example-form{
+    color:rgba(17, 137, 189, 0.96);
+    font-size: 95%;
+}
+#search-input{
+    color:rgba(17, 137, 189, 0.96);
+    border: 1px solid rgba(10, 116, 162, 0.96);
+    border-radius: 0px;
+}
+.btn-group{
+    color: rgba(6, 57, 79, 0.96);
+    height:auto ;
+    width:auto;
+    border:none;
+}
+.bttn{
+    color: white;
+}
+.bttn:hover{
+    border:1px solid rgba(24, 100, 133, 0.727);
+}
+#row-block-container{
+    height: auto;
+    margin-top: 5%;
+}
+.link-for-modal{
+    text-decoration: none;
+}
+.blk{
+    height: 100%;
+    border: 1px solid white;
+    text-align: center;
+}
+.blk:hover{
+    border:1px solid rgb(218, 215, 215);
+   
+}
+.blk-icon{
+    height: 40%;
+    width: 100%;
+    margin-top: 10%;
+    background-color:rgb(175, 175, 235);
+}
+.small-text{
+    color:grey;
+}
+#colomn-block-container{
+    height: 180px;
+}
+#footer{
+    text-align: center;
+    color:rgba(36, 103, 131, 0.96);
+    margin-top: 1.5%;
+}
+#logo-container{
+    padding-left:6%;
+}
+.modal-dialog{
+    background-color:white;
+    width: 90%;
+}
+.modal-content{
+    border: none;
+    border-radius: none;
+}
+.modal-title{
+    text-align: center;
+}
+.modal-body{
+    background-color:red;
+}
